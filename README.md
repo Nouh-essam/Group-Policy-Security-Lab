@@ -30,7 +30,7 @@ This lab demonstrates implementing security restrictions using Group Policy in a
 ![GPO-Creation.png](GPO-Creation.png)
 
 ### Control Panel Disabled
-![Control-Panel-Policy-Enaabled.png](Control-Panel-Policy-Enaabled.png)
+![Control-Panel-Policy-Enabled.png](Control-Panel-Policy-Enaabled.png)
 
 ### Command Prompt Disabled
 ![CMD-Disabled.png](CMD-Disabled.png)
