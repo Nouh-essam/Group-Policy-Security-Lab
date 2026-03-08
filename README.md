@@ -27,13 +27,13 @@ This lab demonstrates implementing security restrictions using Group Policy in a
 - ## Screenshots
 
 ### Group Policy Creation
-![gpo-created.png](gpo-created.png)
+![GPO-Creation.png](GPO-Creation.png)
 
 ### Control Panel Disabled
-![control-panel-disabled.png](control-panel-disabled.png)
+![Control-Panel-Policy-Enaabled.png](Control-Panel-Policy-Enaabled.png)
 
 ### Command Prompt Disabled
-![cmd-disabled.png](cmd-disabled.png)
+![CMD-Disabled.png](CMD-Disabled.png)
 
 ### Task Manager Disabled
-![Task Manager](task-manager-disabled.png)
+![task-manager-disabled.png](task-manager-disabled.png)
